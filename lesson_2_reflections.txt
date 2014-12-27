@@ -5,3 +5,7 @@ Created a repository.  The repository is where you will store the commits.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 You haven't committed the files yet.  You can add multiple files into the stagin area if you think they should logically be committed at the same time.  
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can compare the staging area to the commit.  If there's multiple differences then you can submit multiple commits.
