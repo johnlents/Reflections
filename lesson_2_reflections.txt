@@ -1,11 +1,15 @@
-What happens when you initialize a repository? Why do you need to do it?
+1. What happens when you initialize a repository? Why do you need to do it?
 
 Created a repository.  The repository is where you will store the commits.  
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 You haven't committed the files yet.  You can add multiple files into the stagin area if you think they should logically be committed at the same time.  
 
-How can you use the staging area to make sure you have one commit per logical change?
+3. How can you use the staging area to make sure you have one commit per logical change?
 
 You can compare the staging area to the commit.  If there's multiple differences then you can submit multiple commits.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It could be helpful when experimenting or making large changes.  You may create a version that you don't need to utilize at the moment but when the time comes that you want it you can simply merge the branches.  
